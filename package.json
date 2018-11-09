@@ -1,0 +1,28 @@
+{
+  "name": "ned-goes-serverless",
+  "version": "1.0.0",
+  "description": "S3 + serverless +SNS+ lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storycoding/ned-goes-serverless.git"
+  },
+  "keywords": [
+    "s3",
+    "serverless",
+    "sns",
+    "lambda"
+  ],
+  "author": "storycoding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/storycoding/ned-goes-serverless/issues"
+  },
+  "homepage": "https://github.com/storycoding/ned-goes-serverless#readme",
+  "dependencies": {
+    "aws-sdk": "^2.352.0"
+  }
+}
